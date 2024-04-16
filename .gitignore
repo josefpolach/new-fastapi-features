@@ -1,0 +1,15 @@
+__pycache__/
+build/
+
+.env*
+.venv
+env/
+venv/
+
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+.DS_Store
+
+app.log
