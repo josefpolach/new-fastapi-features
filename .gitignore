@@ -6,6 +6,8 @@ build/
 env/
 venv/
 
+.idea
+
 .mypy_cache/
 .dmypy.json
 dmypy.json
