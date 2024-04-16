@@ -1,0 +1,20 @@
+total 304
+drwxr-xr-x   19 josef  staff     608 Apr 13 16:50 .
+drwx------@ 131 josef  staff    4192 Apr 13 16:36 ..
+-rw-r--r--    1 josef  staff     117 Apr 13 16:26 .env
+drwxr-xr-x   12 josef  staff     384 Apr 13 16:19 .git
+-rw-r--r--    1 josef  staff     101 Apr 13 16:19 .gitignore
+drwxr-xr-x    9 josef  staff     288 Apr 13 16:45 .idea
+-rw-r--r--    1 josef  staff     621 Apr 13 16:19 .pre-commit-config.yaml
+-rw-r--r--    1 josef  staff     618 Apr 13 16:19 Dockerfile
+-rw-r--r--    1 josef  staff     642 Apr 13 16:19 Dockerfile.integration-tests
+-rw-r--r--    1 josef  staff     635 Apr 13 16:19 Dockerfile.unit-tests
+-rw-r--r--    1 josef  staff    3073 Apr 13 16:19 README.md
+drwxr-xr-x    9 josef  staff     288 Apr 13 16:19 app
+drwxr-xr-x@   2 josef  staff      64 Apr 13 16:37 dist
+-rw-r--r--    1 josef  staff     317 Apr 13 16:33 docker-compose.integration-tests.yml
+-rw-r--r--    1 josef  staff       0 Apr 13 16:50 list.txt
+-rw-r--r--    1 josef  staff  116178 Apr 13 16:19 poetry.lock
+-rw-r--r--    1 josef  staff     549 Apr 13 16:19 pyproject.toml
+drwxr-xr-x    6 josef  staff     192 Apr 13 16:19 tests
+drwxr-xr-x    3 josef  staff      96 Apr 13 16:26 tmp
